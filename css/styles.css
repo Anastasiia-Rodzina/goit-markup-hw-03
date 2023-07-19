@@ -56,7 +56,6 @@ img {
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
-  border-bottom: 1px solid var(--cornflower);
 }
 
 .logo {
